@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ei Myat Nwe</h1>
 <h3 align="center">I'm from Myanmar. I'm a computer Engineering Student who tries to become a FRONT-END DEVELOPER.</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eimyatnwe)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning **HTML,CSS,JS,Bootstrap,Mysql**
 
