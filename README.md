@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 ###
 
 <h1 align="center">Hi 👋, I'm Ei Myat Nwe</h1>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eimyatnwe](https://github.com/eimyatnwe)
 
-- 📫 How to reach me **eimyatnwe94@gamil.com**
+- 📫 How to reach me **eimyatnwe94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
