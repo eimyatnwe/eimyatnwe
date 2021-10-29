@@ -5,7 +5,7 @@
 <h3 align="center">I'm from Myanmar. I'm a computer Engineering Student who tries to become a FRONT-END DEVELOPER.</h3>
 
 
-- 🌱 I’m currently learning **JS,Mysql**
+- 🌱 I’m currently learning **Mysql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eimyatnwe](https://github.com/eimyatnwe)
 
