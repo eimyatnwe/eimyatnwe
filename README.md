@@ -2,10 +2,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Ei Myat Nwe</h1>
-<h3 align="center">I'm from Myanmar. I'm a Software Engineering student at KMITL, Thailand.</h3>
-
-
-- 🌱 I’m currently learning **Python and Rust**
+<h3 align="center">I'm a Software Engineering student at KMITL, Thailand.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/eimyatnwe](https://github.com/eimyatnwe)
 
